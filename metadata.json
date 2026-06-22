@@ -1,0 +1,6 @@
+{
+  "name": "Fitness Tracker",
+  "description": "A single-screen fitness dashboard to log workouts, track calories, monitor water intake, and view active trends.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
